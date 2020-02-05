@@ -10,4 +10,4 @@ Worked in retail after highschool which challenged my critical thinking during s
 * [Guess a Number!](https://github.com/Vexurion/guess-number)
 
 ###### Personal Projects
-* [hush.](https://github.com/Vexurion/hush) (In progress)
+* [hush.](https://vexurion.github.io/hush/) (In progress)
